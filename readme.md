@@ -1,1 +1,3 @@
-Projeto com laço e VisualG
+Projeto com laÃ§o e VisualG!
+
+Pacetech
