@@ -8,9 +8,9 @@ metro, quilometro, metro_cubico, litro: real
 inicio
 opcao <-"0"
 enquanto opcao <> "3" faca
-   escreval ("Digite 1 para converter quilômetro em metros!")
-   escreval ("Digite 2 para converter litros em metros cúbicos!")
-   escreval ("Digite 3 para sair do programa!")
+   escreval ("Digite 1 para converter quilômetro em metros!!!")
+   escreval ("Digite 2 para converter litros em metros cúbicos!!!")
+   escreval ("Digite 3 para sair do programa!!!")
 
    leia (opcao)
    se opcao = "1" entao
